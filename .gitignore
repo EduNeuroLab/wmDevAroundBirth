@@ -1,3 +1,6 @@
+.ipynb_checkpoints
 inputData
 outputData
+data
 figures
+.DS_Store
